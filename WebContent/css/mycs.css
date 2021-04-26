@@ -1,0 +1,20 @@
+.bs-example {
+	margin: 20px;
+}
+
+.close {
+	font-size: 25px;
+}
+
+.close:hover {
+	cursor: pointer;
+	color: red;
+}
+
+.forget {
+	font-size: 8px;
+}
+
+.errors {
+color:red;
+}
